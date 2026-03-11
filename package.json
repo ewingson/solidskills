@@ -1,0 +1,25 @@
+{
+  "name": "solidskills",
+  "version": "0.0.1",
+  "description": "LLM skills for the Solid ecosystem",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "solid",
+    "skills",
+    "llm",
+    "webacl",
+    "linked-data",
+    "rdf"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solidskills/solidskills.git"
+  },
+  "homepage": "https://github.com/solidskills/solidskills",
+  "bugs": {
+    "url": "https://github.com/solidskills/solidskills/issues"
+  }
+}

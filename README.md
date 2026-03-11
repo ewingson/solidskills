@@ -1,0 +1,23 @@
+# solidskills
+
+LLM skills for the Solid ecosystem. Grounded in working code, not theory.
+
+## Skills
+
+| Skill | Description |
+|-------|-------------|
+| [skills/webacl.md](skills/webacl.md) | Web Access Control — generate `.acl` files for Solid pods |
+
+## Install
+
+```
+npm install solidskills
+```
+
+## Usage
+
+Point your AI coding assistant at the skill files, or copy them into your project's context.
+
+## License
+
+AGPL-3.0-only
