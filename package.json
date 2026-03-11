@@ -1,6 +1,6 @@
 {
   "name": "solidskills",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "LLM skills for the Solid ecosystem",
   "main": "index.js",
   "scripts": {},
