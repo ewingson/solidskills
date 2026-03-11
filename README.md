@@ -6,6 +6,7 @@ LLM skills for the Solid ecosystem. Grounded in working code, not theory.
 
 | Skill | Description |
 |-------|-------------|
+| [skills/protocol.md](skills/protocol.md) | Solid Protocol — LDP, WebID, HTTP API, content negotiation |
 | [skills/webacl.md](skills/webacl.md) | Web Access Control — generate `.acl` files for Solid pods |
 
 ## Install
